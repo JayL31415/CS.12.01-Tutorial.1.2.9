@@ -12,6 +12,7 @@ class WordPairListTest {
     void setUp() {
     }
 
+
     @AfterEach
     void tearDown() {
     }
